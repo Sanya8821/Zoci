@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Nazi_Swastika.svg/langru-200px-Nazi_Swastika.svg.png);
+    background-size:cover;
+}
+.btn{
+    background-color: brown;
+    border-radius: 6px;
+    border-color: black;
+    border-style: solid;
+    padding: 16px;
+    font-size: 1.3rem;
+}
+dialog{
+    background-color: rgba(0, 0, 0, 0.37);
+    border-radius: 6px;
+}
+video{
+    border-radius: 10px;
+    margin: 8px;
+}
